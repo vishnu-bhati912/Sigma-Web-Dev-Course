@@ -1,0 +1,1 @@
+alert("REDEEM YOUR REWARD NOW!");
